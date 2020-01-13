@@ -12,7 +12,7 @@ with open("private.json", encoding='utf-8') as private_json:
     private_data = json.load(private_json)
 
 app.config['INTEGRATIONS'] = ['ACTIONS_ON_GOOGLE']
-app.config['AOG_CLIENT_ID'] = private_data['AOG_CLIENT_ID'] #CLIENT_ID OBTAINED BY SETTING UP ACCOUNT LINKING IN AOG CONSOLE # https://console.actions.google.com/u/0/ + Develop + Account Linking
+app.config['AOG_CLIENT_ID'] = private_data['AOG_CLIENT_ID'] #CLIENT_ID OBTAINED BY SETTING UP ACCOUNT LINKING IN AOG CONSOLE # https://console.actions.google.com/u/0/ + Selecting the action > Develop > Account Linking
 
 
 assist = Assistant(app=app, route="/", project_id=private_data['project_id']) #PROJECT ID OBTAINED IN 1) https://dialogflow.cloud.google.com/ > Select Agent > Settings > General > GOOGLE PROJECT > 'Project ID' OR 2) GOOGLE CLOUD CONSOLE: https://console.cloud.google.com/home/dashboard

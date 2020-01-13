@@ -1,4 +1,5 @@
 {
-  "AOG_CLIENT_ID": "CLIENT_ID OBTAINED BY SETTING UP ACCOUNT LINKING IN AOG CONSOLE # https://console.actions.google.com/u/0/ + Develop + Account Linking",
-  "project_id": "PROJECT ID OBTAINED IN 1) https://dialogflow.cloud.google.com/ > Select Agent > Settings > General > GOOGLE PROJECT > 'Project ID' OR 2) GOOGLE CLOUD CONSOLE: https://console.cloud.google.com/home/dashboard"
+  "AOG_CLIENT_ID_DESCRIPTION": "CLIENT_ID OBTAINED BY SETTING UP ACCOUNT LINKING IN AOG CONSOLE # https://console.actions.google.com/u/0/ + Selecting the action > Develop > Account Linking",
+  "project_id_DESCRIPTION": "PROJECT ID OBTAINED IN 1) https://dialogflow.cloud.google.com/ > Select Agent > Settings > General > GOOGLE PROJECT > 'Project ID' OR 2) GOOGLE CLOUD CONSOLE: https://console.cloud.google.com/home/dashboard",
+
 }
