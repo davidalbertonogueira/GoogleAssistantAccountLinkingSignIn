@@ -1,0 +1,16 @@
+Flask==1.1.1
+-e git+https://github.com/davidalbertonogueira/flask-ask.git#egg=accfb25ceca880e7e0fa3194eb29650feb4a9d77
+-e git+https://github.com/davidalbertonogueira/flask-assistant.git#egg=4435af4a450fad3899c79cef3c66c8c2a08f2c48
+Flask-Cors==3.0.2
+tornado==4.4.2
+tqdm==4.24.0
+gevent==1.2.1
+requests==2.18.4
+urllib3==1.22
+ujson==1.35
+colorama==0.3.7
+beautifulsoup4==4.6.3
+feedparser==5.2.1
+lxml==3.7.2
+
+
