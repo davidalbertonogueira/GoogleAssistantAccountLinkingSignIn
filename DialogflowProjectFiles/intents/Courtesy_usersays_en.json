@@ -1,0 +1,26 @@
+[
+  {
+    "id": "279cc304-3b3c-4c86-95d8-7738b28ff550",
+    "data": [
+      {
+        "text": "you\u0027re nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b63ea0bf-9c0e-43b5-9efe-058168d99ffa",
+    "data": [
+      {
+        "text": "you are friendly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
