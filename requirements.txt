@@ -11,4 +11,4 @@ ujson==1.35
 colorama==0.3.7
 beautifulsoup4==4.6.3
 feedparser==5.2.1
-lxml==4.6.3
+lxml==4.6.5
