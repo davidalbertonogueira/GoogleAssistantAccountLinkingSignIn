@@ -7,7 +7,7 @@ tqdm==4.24.0
 gevent==1.2.1
 requests==2.20.0
 urllib3==1.26.5
-ujson==5.2.0
+ujson==5.4.0
 colorama==0.3.7
 beautifulsoup4==4.6.3
 feedparser==5.2.1
