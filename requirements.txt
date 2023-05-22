@@ -5,7 +5,7 @@ Flask-Cors==3.0.2
 tornado==4.4.2
 tqdm==4.24.0
 gevent==1.2.1
-requests==2.20.0
+requests==2.31.0
 urllib3==1.26.5
 ujson==5.4.0
 colorama==0.3.7
